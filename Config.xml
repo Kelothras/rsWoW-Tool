@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+Format muss eingehalten werden, sonst kommt es zu Fehlern im Programmablauf
+<server version ="" realmlist="" path="">Name</server>
+-->
+<settings>
+  <server version="3.3.5.a" realmlist="123.13.15.16" path="C:\Users\Schiffner\Documents\Visual Studio 2013\Projects\rsWoW-Tool\rsWoW-Tool\bin\Debug">Rising-Gods</server>
+</settings>
